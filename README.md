@@ -2,4 +2,4 @@
 My dotfiles / configuration for vim etc...
 ---
 
-lets see how this works
+nvim folder sits in /home/$USER/.config
